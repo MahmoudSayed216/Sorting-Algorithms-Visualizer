@@ -1,0 +1,42 @@
+﻿  columns.cpp
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(11,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(11,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(13,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(14,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(14,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(20,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(21,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(25,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(25,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(35,38): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(40,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\Sorting Visualizer\columns.cpp(40,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Sorting Visualizer.vcxproj -> C:\Users\mahmo\Desktop\Code\C++\Sorting Visualizer\x64\Debug\Sorting Visualizer.exe
